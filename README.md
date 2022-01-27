@@ -2,6 +2,6 @@
 
 Some description!
 
-## subheader
+## Subheader
 
 some text
